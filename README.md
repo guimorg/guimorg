@@ -4,7 +4,7 @@
 <h2>Hello World! :wave:</h2>
 </h3>
  <samp>
-I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffee, Python, Machine Learning, a whole bunch of books! I also love learning new things and sharing some things I know!  Welcome to my Github!
+I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffee, Python, Machine Learning, and a whole bunch of books! I also love learning new things and sharing some things I know!  Welcome to my Github!
   </samp>
 </p>
 
