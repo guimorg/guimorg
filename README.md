@@ -13,7 +13,7 @@ I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffe
 :running_man: Here are some things I am doing:
 </h3>
  <ul>
-  <li> Post-Graduate Program in Experimental Pathophysiology - Faculty of Medicine at the University of Sao Paulo </li>
+  <li> PhD Candidate - Experimental Pathophysiology - Faculty of Medicine at the University of Sao Paulo </li>
   <li> Senior Machine Learning Engineer at iFood - MLOps </li>
   <li> Learning more about Machine Learning </li>
   <li> Sharing posts about various subjects on my <a href="https://guimorg.github.io/">personal blog</a></li>
