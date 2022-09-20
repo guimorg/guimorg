@@ -27,8 +27,8 @@ I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffe
   <li> Some of my favorite packages </li>
   <ul>
   <li> tensorflow, scikit-learn, keras, numpy, pandas </li>
-  <li> click, strictyaml, pydantic, marshmallow </li>
-  <li> pytest, tox </li>
+  <li> click, strictyaml, pydantic, marshmallow, pluggy </li>
+  <li> pytest, moto </li>
   <li> multiprocessing, functools, asyncio, collections </li>
   </ul>
   <li> vim, zsh, bash </li>
