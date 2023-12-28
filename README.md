@@ -4,7 +4,7 @@
 <h2>Hello World! :wave:</h2>
 </h3>
  <samp>
-I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffee, Python, Machine Learning, and a whole bunch of books! I also love learning new things and sharing some things I know!  Welcome to my Github!
+I am Guilherme Amorim and I'm a Staff Machine Learning Engineer! I **really** love coffee, Python, Machine Learning, and a whole bunch of books! I also love learning new things and sharing some things I know!  Welcome to my GitHub!
   </samp>
 </p>
 
@@ -14,7 +14,7 @@ I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffe
 </h3>
  <ul>
   <li> PhD Candidate - Experimental Pathophysiology - Faculty of Medicine at the University of Sao Paulo </li>
-  <li> Senior Machine Learning Engineer at iFood - MLOps </li>
+  <li> Staff Machine Learning Engineer at iFood - MLOps </li>
   <li> Learning more about Machine Learning </li>
   <li> Sharing posts about various subjects on my <a href="https://guimorg.github.io/">personal blog</a></li>
  </ul>
@@ -28,6 +28,7 @@ I am Guilherme Amorim and I'm Machine Learning Engineer! I **really** love coffe
   <ul>
   <li> tensorflow, scikit-learn, keras, numpy, pandas </li>
   <li> click, strictyaml, pydantic, marshmallow, pluggy </li>
+   <li> boto3, sagemaker </li>
   <li> pytest, moto </li>
   <li> multiprocessing, functools, asyncio, collections </li>
   </ul>
