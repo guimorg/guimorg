@@ -13,8 +13,7 @@ I am Guilherme Amorim and I'm a Staff Machine Learning Engineer! I **really** lo
 :running_man: Here are some things I am doing:
 </h3>
  <ul>
-  <li> PhD Candidate - Experimental Pathophysiology - Faculty of Medicine at the University of Sao Paulo </li>
-  <li> Staff Machine Learning Engineer at iFood - MLOps </li>
+  <li> Machine Learning Engineer at Wander </li>
   <li> Learning more about Machine Learning </li>
   <li> Sharing posts about various subjects on my <a href="https://guimorg.github.io/">personal blog</a></li>
  </ul>
